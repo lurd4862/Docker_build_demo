@@ -1,4 +1,2 @@
 #! /bin/sh
-echo hello world from a script, running top
-
-top
+echo hello world from a script
